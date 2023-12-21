@@ -1,0 +1,6 @@
+[submodule "KM-DFX_RP"]
+	path = KM-DFX_RP
+	url = ./KM-DFX_RP/
+[submodule "AXI_REG"]
+	path = AXI_REG
+	url = ./AXI_REG/
