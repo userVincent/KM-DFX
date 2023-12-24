@@ -38,6 +38,7 @@ Before synthesis, ensure to add an HDL wrapper around the block design. This enc
 ### Troubleshooting
 
 - **Top File Warnings:** If any top file warnings come up during the process, please press "OK" to continue.
+- **Vivado Version:** We use vivado 2020.1 so you might have version issues if you decide to use any other version.
 
 ## Additional Information
 TO BE DONE
