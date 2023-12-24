@@ -15,7 +15,7 @@ git clone --recurse-submodules https://github.com/userVincent/KM-DFX.git
 
 ### Step 2: Adjust Configuration
 
-Open the configuration file and adjust lines 35 and 36 accordingly:
+Open the configuration file and adjust lines 35 and 36 in the KM-DFX.tcl script accordingly:
 
 ```tcl
 set origin_dir "."
@@ -28,7 +28,7 @@ Ensure these paths are correct for your system and project structure.
 
 1. Open the Vivado Design Suite.
 2. Navigate to the top of the screen and select 'Tools' -> 'Run Tcl Script...'.
-3. Locate and select the script you want to run.
+3. Locate and select the KM-DFX.tcl script to generate the project.
 
 ### Step 4: HDL Wrapper
 
