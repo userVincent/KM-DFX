@@ -16,6 +16,7 @@ git clone --recurse-submodules https://github.com/userVincent/KM-DFX.git
 ### Step 2: Adjust Configuration
 
 Open the configuration file and adjust lines 35 and 36 in the KM-DFX.tcl script accordingly:
+(origin_dir should be one folder above the folder in which you cloned the project)
 
 ```tcl
 set origin_dir "."
