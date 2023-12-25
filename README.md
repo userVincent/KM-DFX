@@ -47,4 +47,7 @@ TO BE DONE
 For more detailed information on the DKM-DFX_RP and AXI_REG IPs, refer to the documentation available at `docs/KM_DFX_RP_documentation.pdf`.
 
 ## Additional Information
-TO BE DONE
+
+For any suggestions or questions regarding the KM-DFX System, please feel free to reach out.
+
+Contact: Vincent at `km-dfx@vansant.mozmail.com`
